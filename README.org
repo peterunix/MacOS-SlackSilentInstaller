@@ -1,0 +1,6 @@
+* Details
+Installs Slack on Silicon/Intel based MacOS installs
+* Usage
+#+begin_src shell
+./script.sh
+#+end_src
